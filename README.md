@@ -60,10 +60,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Faticx/Faticx/output/snake.svg" alt="Snake animation" />
-
-###
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![Kata](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
