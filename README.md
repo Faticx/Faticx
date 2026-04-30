@@ -30,6 +30,18 @@
 ![](https://streak-stats.demolab.com/?user=Faticx&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Faticx&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faticx/Faticx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Faticx/Faticx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Faticx/Faticx/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Faticx/Faticx/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
