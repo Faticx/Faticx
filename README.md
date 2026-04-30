@@ -2,6 +2,8 @@
 
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
+![Muah](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFpcHRuNWVuemI0Y3Z2bTMxNXVxYW5jZnBybWU5dXU1Nnd5em1rMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytu2GUYbvhz7zShGwS/giphy.gif)
+
 # 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Gevithia)
